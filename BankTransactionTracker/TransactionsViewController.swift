@@ -10,5 +10,6 @@ final class TransactionsViewController: UIViewController {
         super.viewDidLoad()
 
         view.backgroundColor = .systemBackground
+        navigationItem.title = "Transactions"
     }
 }

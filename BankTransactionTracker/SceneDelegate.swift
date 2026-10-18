@@ -16,7 +16,15 @@ class SceneDelegate: UIResponder, UIWindowSceneDelegate {
 
         let window = UIWindow(windowScene: windowScene)
 
-        window.rootViewController = TransactionsViewController()
+        let transactionsVC = TransactionsViewController()
+
+        let navigationController = UINavigationController(
+            rootViewController: transactionsVC
+        )
+
+        transactionsVC.title = "Transactions"
+
+        window.rootViewController = navigationController
 
         self.window = window
         window.makeKeyAndVisible()
