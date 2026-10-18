@@ -10,9 +10,33 @@
 		000000000000000000000120 /* BankTransactionTracker.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = BankTransactionTracker.app; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
+/* Begin PBXFileSystemSynchronizedBuildFileExceptionSet section */
+		01FEBCF030858BA500AD1BF0 /* Exceptions for "BankTransactionTracker" folder in "BankTransactionTracker" target */ = {
+			isa = PBXFileSystemSynchronizedBuildFileExceptionSet;
+			membershipExceptions = (
+				.gitignore,
+			);
+			target = 000000000000000100000000 /* BankTransactionTracker */;
+		};
+/* End PBXFileSystemSynchronizedBuildFileExceptionSet section */
+
+/* Begin PBXFileSystemSynchronizedGroupBuildPhaseMembershipExceptionSet section */
+		01FEBCF130858BA500AD1BF0 /* Exceptions for "BankTransactionTracker" folder in "Compile Sources" phase from "BankTransactionTracker" target */ = {
+			isa = PBXFileSystemSynchronizedGroupBuildPhaseMembershipExceptionSet;
+			buildPhase = 000000000000000120000000 /* Sources */;
+			membershipExceptions = (
+				.gitignore,
+			);
+		};
+/* End PBXFileSystemSynchronizedGroupBuildPhaseMembershipExceptionSet section */
+
 /* Begin PBXFileSystemSynchronizedRootGroup section */
 		000000000000000000000010 /* BankTransactionTracker */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
+			exceptions = (
+				01FEBCF030858BA500AD1BF0 /* Exceptions for "BankTransactionTracker" folder in "BankTransactionTracker" target */,
+				01FEBCF130858BA500AD1BF0 /* Exceptions for "BankTransactionTracker" folder in "Compile Sources" phase from "BankTransactionTracker" target */,
+			);
 			path = BankTransactionTracker;
 			sourceTree = "<group>";
 		};
