@@ -53,9 +53,19 @@ This project was developed as a hands-on introduction to iOS application develop
   </tr>
 </table>
 
+
 ## Demo
 
-A short demonstration of adding a transaction and updating the account balance will be added here.
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/5428aa16-62de-42f7-aed4-0c16355d2ffd" width="30%" alt="Bank Transaction Tracker Demo">
+</p>
+
+<p align="center">
+  <strong>Demo — Version 1.0</strong><br>
+  Adding a new transaction and automatically updating the account balance.
+</p>
+
+
 
 ## Current Limitations
 
