@@ -25,12 +25,33 @@ This project was developed as a hands-on introduction to iOS application develop
 
 ## Screenshots
 
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/39684513-d4f0-4f8c-ba04-91d4bc06100b" width="30%" alt="Transactions Screen">
-  <img src="https://github.com/user-attachments/assets/acb62a93-245f-4d35-9241-68d7f39239d7" width="30%" alt="Add Transaction Screen">
-  <img src="https://github.com/user-attachments/assets/55d6dfc3-f7fc-4a0c-890d-4950e6ffc239" width="30%" alt="Updated Transactions Screen">
-</p>
-
+<table>
+  <tr>
+    <td align="center" width="33%">
+      <img src="https://github.com/user-attachments/assets/39684513-d4f0-4f8c-ba04-91d4bc06100b" width="100%" alt="Transactions Screen">
+    </td>
+    <td align="center" width="33%">
+      <img src="https://github.com/user-attachments/assets/acb62a93-245f-4d35-9241-68d7f39239d7" width="100%" alt="Add Transaction Screen">
+    </td>
+    <td align="center" width="33%">
+      <img src="https://github.com/user-attachments/assets/55d6dfc3-f7fc-4a0c-890d-4950e6ffc239" width="100%" alt="Updated Transactions Screen">
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <strong>Transactions Overview</strong><br>
+      View recent transactions and the total account balance.
+    </td>
+    <td align="center">
+      <strong>Add Transaction</strong><br>
+      Enter a transaction and select income or expense.
+    </td>
+    <td align="center">
+      <strong>Live Balance Update</strong><br>
+      See the new transaction and automatically recalculated balance.
+    </td>
+  </tr>
+</table>
 
 ## Demo
 
