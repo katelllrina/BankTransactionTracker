@@ -25,7 +25,16 @@ This project was developed as a hands-on introduction to iOS application develop
 
 ## Screenshots
 
-Screenshots of the application will be added here.
+<img width="603" height="1311" alt="IMG_3480" src="https://github.com/user-attachments/assets/39684513-d4f0-4f8c-ba04-91d4bc06100b" />
+
+
+<img width="603" height="1311" alt="IMG_3479" src="https://github.com/user-attachments/assets/acb62a93-245f-4d35-9241-68d7f39239d7" />
+
+
+<img width="603" height="1311" alt="IMG_3478" src="https://github.com/user-attachments/assets/55d6dfc3-f7fc-4a0c-890d-4950e6ffc239" />
+
+
+
 
 ## Demo
 
