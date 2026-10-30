@@ -25,15 +25,11 @@ This project was developed as a hands-on introduction to iOS application develop
 
 ## Screenshots
 
-<img width="603" height="1311" alt="IMG_3480" src="https://github.com/user-attachments/assets/39684513-d4f0-4f8c-ba04-91d4bc06100b" />
-
-
-<img width="603" height="1311" alt="IMG_3479" src="https://github.com/user-attachments/assets/acb62a93-245f-4d35-9241-68d7f39239d7" />
-
-
-<img width="603" height="1311" alt="IMG_3478" src="https://github.com/user-attachments/assets/55d6dfc3-f7fc-4a0c-890d-4950e6ffc239" />
-
-
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/39684513-d4f0-4f8c-ba04-91d4bc06100b" width="30%" alt="Transactions Screen">
+  <img src="https://github.com/user-attachments/assets/acb62a93-245f-4d35-9241-68d7f39239d7" width="30%" alt="Add Transaction Screen">
+  <img src="https://github.com/user-attachments/assets/55d6dfc3-f7fc-4a0c-890d-4950e6ffc239" width="30%" alt="Updated Transactions Screen">
+</p>
 
 
 ## Demo
